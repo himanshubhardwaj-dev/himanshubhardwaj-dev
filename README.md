@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Himanshu Bhardwaj<br><br>I’m a Software Developer. building and maintaining enterprise-level web applications. I work primarily with Angular (Angular Material, Reactive Forms) on the frontend and .NET / C# on the backend, focusing on clean architecture, maintainable code, and reliable business workflows.<br><br>I enjoy solving real-world problems. I’m detail-oriented, curious by nature, and always looking to improve performance, readability, and user experience.
+Hi, I’m Himanshu Bhardwaj<br><br>I’m a Software Developer. building and maintaining enterprise-level web applications. I work primarily with Angular on the frontend and .NET / C# on the backend, focusing on clean architecture, maintainable code, and reliable business workflows.<br><br>I enjoy solving real-world problems. I’m detail-oriented, curious by nature, and always looking to improve performance, readability, and user experience.
 
 
 # 💻 Tech Stack:
